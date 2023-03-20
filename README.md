@@ -6,4 +6,8 @@
 <p><b>:mailbox: Contact Me:<b><a href="mailto:mrtaksy99@gmail.com"> mrtaksy99@gmail.com<a><p>
   
   <img src="https://skillicons.dev/icons?i=py,c,cpp,flutter,kotlin,firebase,androidstudio">
+  
+  
+  ## My Top Langs:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mertaksoyy&layout=compact&theme=tokyonight
 
