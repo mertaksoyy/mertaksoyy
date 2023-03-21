@@ -8,4 +8,4 @@
   <img src="https://skillicons.dev/icons?i=py,c,cpp,flutter,kotlin,firebase,androidstudio">
   
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mertaksoyy&layout=compact&theme=blueberry&count_private=true&hide_border=true&hide=cmake,shaderlab,css)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mertaksoyy&layout=compact&theme=blueberry&count_private=true&hide_border=true&hide=javascript,shaderlab,html,css,hlsl,jupyter%20notebook,c%23)
