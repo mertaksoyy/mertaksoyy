@@ -5,7 +5,7 @@
 - 💻 I’m currently working on awesome projects with <a href="https://github.com/map-apps"><strong>Map.</strong></a>
 <p><b>:mailbox: Contact Me:<b><a href="mailto:mrtaksy99@gmail.com"> mrtaksy99@gmail.com<a><p>
   
-  <img src="https://skillicons.dev/icons?i=py,sqlite,cs,cpp,flutter,kotlin,firebase,androidstudio">
+  <img src="https://skillicons.dev/icons?i=py,sqlite,cs,cpp,flutter,kotlin,firebase,androidstudio,vscode">
   
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mertaksoyy&layout=compact&theme=blueberry&count_private=true&hide_border=true&hide=javascript,c,cmake,shaderlab,html,css,hlsl,jupyter%20notebook)
