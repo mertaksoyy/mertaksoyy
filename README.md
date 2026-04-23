@@ -2,7 +2,6 @@
 
 - 🚀 I use daily ```Flutter```, ```C#``` ,```.Net```,```Asp.Net Core```
 - 🤔 I'm interested in 'Mobile Developing'
-- 💻 I’m currently working on awesome projects with <a href="https://github.com/map-apps"><strong>Map.</strong></a>
 <p><b>:mailbox: Contact Me:<b><a href="mailto:mrtaksy99@gmail.com"> mrtaksy99@gmail.com<a><p>
   
   <img src="https://skillicons.dev/icons?i=py,sqlite,cs,cpp,dart,flutter,kotlin,dotnet,firebase,androidstudio,vscode,visualstudio,unity">
