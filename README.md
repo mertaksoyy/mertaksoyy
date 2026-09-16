@@ -5,6 +5,6 @@
 
 📫 **Contact Me:** [mrtaksy99@gmail.com](mailto:mrtaksy99@gmail.com)
 
-<img src="https://skillicons.dev/icons?i=python,sqlite,cs,cpp,dart,flutter,kotlin,dotnet,firebase,postgresql,androidstudio,vscode,visualstudio,unity,ts&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,sqlite,cs,cpp,dart,flutter,kotlin,dotnet,firebase,postgresql,androidstudio,vscode,visualstudio,unity,ts,js&theme=dark" />
 
 
